@@ -1,5 +1,5 @@
 # javaScript
 
-Developed and created a Dice game using JavaScript DOM Manipulation. 
+Developed and created a Dice game using CSS and JavaScript. 
 
 https://charan786.github.io/javaScript/
